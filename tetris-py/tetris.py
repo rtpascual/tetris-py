@@ -2,10 +2,6 @@ import shapes
 
 class Tetris:
     level = 1
-    score = 0
-    state = ""
-    field = []
-    height = width = 0
     x, y = 100, 60
     zoom = 20
     shape = None
